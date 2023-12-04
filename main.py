@@ -12,3 +12,16 @@ print(f"The last student's name is {students[-1]}.")
 foods = ('apple', 'banana', 'carrot')
 for food in foods:
     print(f"{food.capitalize()} is a good food.")
+
+
+
+
+# Exercise 3
+
+for food in foods[-2:]:
+    print(food)
+
+
+
+
+# Exercise 4
